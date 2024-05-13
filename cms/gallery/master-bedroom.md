@@ -3,7 +3,7 @@ title: Master Bedroom
 slug: master-bedroom
 updated-on: '2023-09-15T09:42:05.494Z'
 created-on: '2023-09-02T08:08:06.794Z'
-published-on: '2023-09-04T13:07:47.903Z'
+published-on: '2024-04-28T09:18:18.874Z'
 f_bg-image-2:
   url: >-
     https://uploads-ssl.webflow.com/64f2ed5cb038c7c46c66a470/64f2ee0647a79d36a27c85a3_64a14ef603c2c188ba0ca197_Approach%2520Image-p-800.webp%20(7).png

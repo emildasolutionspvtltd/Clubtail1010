@@ -3,7 +3,7 @@ title: Pooja Room
 slug: pooja-room
 updated-on: '2023-09-15T09:42:49.858Z'
 created-on: '2023-09-02T08:08:06.784Z'
-published-on: '2023-09-07T05:17:13.050Z'
+published-on: '2024-04-28T09:18:18.874Z'
 f_bg-image-2:
   url: >-
     https://uploads-ssl.webflow.com/64f2ed5cb038c7c46c66a470/64f8664976cebbe5b35a0c33_ruheed_POOJA_ROOM_INTERIOR_HOME_MINIMAL_0667a2b2-fc62-40e7-978a-8d9ab12d0377.png

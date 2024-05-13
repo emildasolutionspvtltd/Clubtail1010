@@ -3,7 +3,7 @@ title: Wardrobe
 slug: wardrobe
 updated-on: '2023-09-15T09:43:20.194Z'
 created-on: '2023-09-02T08:08:06.784Z'
-published-on: '2023-09-07T05:17:13.050Z'
+published-on: '2024-04-28T09:18:18.874Z'
 f_bg-image-2:
   url: >-
     https://uploads-ssl.webflow.com/64f2ed5cb038c7c46c66a470/64f5c281be44e73efe85f543_WARDROBE.png

@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -764,9 +764,9 @@ collections:
             label: Text
             name: '-5ba83bbf'
             widget: string
-          - hint: 'Original text: Call us: +91 7619 373 775, key: 411a2d4e'
+          - hint: 'Original text: Call us: +91 85500 00918, key: 5125b155'
             label: Text
-            name: 411a2d4e
+            name: 5125b155
             widget: string
           - hint: 'Original text: GET IN TOUCH, key: -12b421f2'
             label: Text
@@ -792,17 +792,19 @@ collections:
             label: Text
             name: 1ed033d4
             widget: string
-          - hint: "Original text: Clubtail first floor No. 20, 17th main road, 36th cross road, 4th T block east, Jayanagar, Banglore,\_560041, key: -65b0b733"
+          - hint: >-
+              Original text: #32, 1st floor, 16th ‘A’ main road, 36th Cross, 4th
+              T Block, Jayanagar, Bangalore 560041, key: 4c37e2a7
             label: Text
-            name: '-65b0b733'
-            widget: text
+            name: 4c37e2a7
+            widget: string
           - hint: 'Original text: CONTACT US, key: 253fd2be'
             label: Text
             name: 253fd2be
             widget: string
-          - hint: 'Original text: +91 7619 373 775, key: -53610d58'
+          - hint: 'Original text: +91 85500 00918, key: 75a5d8bb'
             label: Text
-            name: '-53610d58'
+            name: 75a5d8bb
             widget: string
           - hint: 'Original text: hello@clubtail.com, key: 58ba7247'
             label: Text
@@ -971,6 +973,27 @@ collections:
             label: Link
             name: 6bfbaa95
             widget: string
+          - hint: 'Original link: tel:8550000918, key: 509c0507'
+            label: Link
+            name: 509c0507
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.facebook.com/people/Clubtail/61551740285316/, key:
+              -2531a470
+            label: Link
+            name: '-2531a470'
+            widget: string
+          - hint: 'Original link: https://www.instagram.com/clubtail/, key: -6730e0e7'
+            label: Link
+            name: '-6730e0e7'
+            widget: string
+          - hint: >-
+              Original link: https://www.linkedin.com/company/clubtail/, key:
+              -167ee3e1
+            label: Link
+            name: '-167ee3e1'
+            widget: string
           - hint: 'Original link: https://www.emildasolutions.com/, key: 6184bf70'
             label: Link
             name: 6184bf70
@@ -1047,7 +1070,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 12f58c39
+            name: 7f6a8f7c
             widget: object
             fields:
               - name: url
@@ -1060,7 +1083,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 3b88ff14
+            name: '-522e814b'
             widget: object
             fields:
               - name: url
@@ -1516,19 +1539,6 @@ collections:
                 required: false
           - label: Image
             name: '-3634d947'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-a47c329'
             widget: object
             fields:
               - name: url

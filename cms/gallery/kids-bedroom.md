@@ -3,7 +3,7 @@ title: Kid's Bedroom
 slug: kids-bedroom
 updated-on: '2023-09-15T09:42:58.125Z'
 created-on: '2023-09-02T08:08:06.784Z'
-published-on: '2023-09-07T05:17:13.050Z'
+published-on: '2024-04-28T09:18:18.874Z'
 f_bg-image-2:
   url: >-
     https://uploads-ssl.webflow.com/64f2ed5cb038c7c46c66a470/64f5c1ca95d2817bbffd30ec_kid%27s%20bedroom.png

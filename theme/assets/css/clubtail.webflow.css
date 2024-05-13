@@ -616,12 +616,14 @@ body {
 
 .cta_cont {
   max-width: 1300px;
+  height: 100%;
   margin-top: 0;
   display: flex;
 }
 
 .cta_section {
   background-color: var(--dark-orange-new);
+  height: 50vh;
 }
 
 .cta_lft_wrapper {
@@ -629,17 +631,20 @@ body {
   justify-content: center;
   align-items: flex-start;
   width: 50%;
+  height: 100%;
   padding-left: 100px;
   display: flex;
 }
 
 .cta_ryt_wrapper {
   width: 50%;
+  height: 100%;
 }
 
 .cta_phone_wrap {
   justify-content: flex-start;
   align-items: center;
+  text-decoration: none;
   display: flex;
 }
 
@@ -687,9 +692,7 @@ body {
 }
 
 .cta_ryt_image {
-  width: 100%;
-  position: relative;
-  left: -200px;
+  height: 100%;
 }
 
 .footer_sec {
@@ -2701,6 +2704,18 @@ body {
   height: 690px;
 }
 
+.section {
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  display: flex;
+}
+
+.container-4 {
+  width: 500px;
+  height: 500px;
+}
+
 @media screen and (max-width: 991px) {
   .nav_container {
     justify-content: space-between;
@@ -2972,6 +2987,10 @@ body {
     width: 200px;
   }
 
+  .cta_section {
+    height: 40vh;
+  }
+
   .cta_lft_wrapper {
     padding-left: 40px;
   }
@@ -2992,10 +3011,10 @@ body {
   }
 
   .cta_ryt_image {
-    width: 400px;
+    width: 100%;
     max-width: none;
-    height: 300px;
-    left: -47px;
+    height: 100%;
+    position: relative;
   }
 
   .footer_cont {
@@ -4023,6 +4042,10 @@ body {
     margin-top: 0;
   }
 
+  .cta_section {
+    height: 35vh;
+  }
+
   .cta_lft_wrapper {
     padding-left: 20px;
   }
@@ -4043,9 +4066,8 @@ body {
   }
 
   .cta_ryt_image {
-    width: 350px;
-    height: 250px;
-    left: -71px;
+    width: 100%;
+    height: 100%;
   }
 
   .footer_sec {
@@ -4098,6 +4120,7 @@ body {
   .footer_image {
     width: 300px;
     height: auto;
+    margin-left: 0;
   }
 
   .fs_image {
@@ -4943,18 +4966,27 @@ body {
   }
 
   .cta_cont {
+    flex-flow: column;
     justify-content: center;
     align-items: center;
   }
 
+  .cta_section {
+    height: 50vh;
+  }
+
   .cta_lft_wrapper {
+    justify-content: center;
     align-items: center;
-    width: 1100%;
+    width: 100%;
+    height: 50%;
     padding-left: 0;
   }
 
   .cta_ryt_wrapper {
-    display: none;
+    width: 100%;
+    height: 50%;
+    display: flex;
   }
 
   .cta_phone_wrap, .cta_phonen_number, .cta_txt {
@@ -4995,7 +5027,7 @@ body {
   .footer_image {
     width: 250px;
     margin-bottom: 0;
-    margin-left: 20px;
+    margin-left: 0;
   }
 
   .footer_lft_div {
