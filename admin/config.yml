@@ -3,7 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main
+  branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -816,6 +816,10 @@ collections:
             label: Text
             name: '-68f6443a'
             widget: string
+          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
+            label: Text
+            name: '-3fbde6f6'
+            widget: string
           - hint: 'Original text: Terms & Conditions, key: 4f912d2b'
             label: Text
             name: 4f912d2b
@@ -926,6 +930,1383 @@ collections:
             label: Text
             name: 1ec02f86
             widget: string
+          - hint: 'Original text: Introduction, key: 658fac3a'
+            label: Text
+            name: 658fac3a
+            widget: string
+          - hint: "Original text: The\_, key: 27c26f"
+            label: Text
+            name: 27c26f
+            widget: string
+          - hint: "Original text: clubtail\_, key: 47a335a"
+            label: Text
+            name: 47a335a
+            widget: string
+          - hint: "Original text: and anysub-site\_(“, key: 3b3a465d"
+            label: Text
+            name: 3b3a465d
+            widget: string
+          - hint: 'Original text: Website, key: -53cd8785'
+            label: Text
+            name: '-53cd8785'
+            widget: string
+          - hint: >-
+              Original text: ”) is made available by GS E-Commerce Private
+              Limited (hereinafter referred to as “, key: 35cacc30
+            label: Text
+            name: 35cacc30
+            widget: string
+          - hint: 'Original text: our, key: 1af4c'
+            label: Text
+            name: 1af4c
+            widget: string
+          - hint: 'Original text: ”, “, key: e99d7eb'
+            label: Text
+            name: e99d7eb
+            widget: string
+          - hint: 'Original text: us, key: e9e'
+            label: Text
+            name: e9e
+            widget: string
+          - hint: 'Original text: we, key: ece'
+            label: Text
+            name: ece
+            widget: string
+          - hint: 'Original text: Company, key: -64202ba3'
+            label: Text
+            name: '-64202ba3'
+            widget: string
+          - hint: 'Original text: ”“, key: 4039f'
+            label: Text
+            name: 4039f
+            widget: string
+          - hint: 'Original text: our affiliates, key: 723d861a'
+            label: Text
+            name: 723d861a
+            widget: string
+          - hint: 'Original text: ”, or “, key: 128946f0'
+            label: Text
+            name: 128946f0
+            widget: string
+          - hint: 'Original text: our assignees, key: 1a93d0b0'
+            label: Text
+            name: 1a93d0b0
+            widget: string
+          - hint: >-
+              Original text: ”), having its registered office at “32, 1st floor,
+              16th ‘A’ main road, 36th Cross, 4th T Block,Jayanagar, Bangalore
+              560041, India”. The manner in which this data and information is
+              collected, retained, shared, stored, and processed by us (i.e.,the
+              Company) is addressed in this Privacy Policy (“, key: -139b21af
+            label: Text
+            name: '-139b21af'
+            widget: text
+          - hint: 'Original text: Policy, key: -712d6eae'
+            label: Text
+            name: '-712d6eae'
+            widget: string
+          - hint: "Original text: ”). This Policy applies to all information collected through our Website, when you place an order for our services and/or products on the\_Website\_and/or any related services, sales, or marketing. When you access the Website and/or use our services, you trust us with your personal information. We take your privacy very seriously. In order to provide you with the services, we (i.e., the Company) need to collect various data and information from you. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Website and/or our services. You shall not assign or transfer any right or obligation that has accrued to you under this Policy and any attempt by you to assign or transfer such rights and obligations, shall be null and void. We may assign, novate, or transfer any or all rights and obligations that accrued in our favour under the Policy, at our sole discretion, to our subsidiaries, affiliated entities, or any other third party. Please read thisPolicy carefully as it will help you make informed decisions about sharing your personal information with us. \_, key: -a2b9541"
+            label: Text
+            name: '-a2b9541'
+            widget: text
+          - hint: 'Original text: Age Of Consent, key: 3b77cb2'
+            label: Text
+            name: 3b77cb2
+            widget: string
+          - hint: "Original text: Our Website and/or services are not directed to, and we do not knowingly collect personal information from, any minor person or persons under the age of 18 (as per applicable law). If you are a minor or under 18 years of age and have entered this Website and/or services, you must immediately stop accessing or using the Website and/or services. Under no circumstances may you use thisWebsite and/or services or submit personal information to us if you are a minoror under 18 years of age. We are committed to compliance with all applicable regulations, laws, and rules. \_, key: -3a0f274f"
+            label: Text
+            name: '-3a0f274f'
+            widget: text
+          - hint: 'Original text: Types Of Information We Collect, key: 1b8a24ae'
+            label: Text
+            name: 1b8a24ae
+            widget: string
+          - hint: >-
+              Original text: By accessing or using the Website and/or the
+              services, you consent to providing us data in the ways listed
+              below. However, we will not collect certain data, which we regard
+              as sensitive in nature without your explicit consent. We collect
+              the data that is essential for us to provide you services in the
+              best manner possible., key: 6d84cf1e
+            label: Text
+            name: 6d84cf1e
+            widget: text
+          - hint: >-
+              Original text: Personal Information You Disclose To Us, key:
+              3cb490a2
+            label: Text
+            name: 3cb490a2
+            widget: string
+          - hint: >-
+              Original text: : We collect personal information that you
+              voluntarily provide to us when expressing an interest in obtaining
+              information about us or services and products listed on the
+              Website, when participating in activities on the Website or
+              otherwise contacting us., key: 7cd9d6a6
+            label: Text
+            name: 7cd9d6a6
+            widget: text
+          - hint: 'Original text: We collect:, key: 5d950542'
+            label: Text
+            name: 5d950542
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_Name and Contact Data.\_We collect your first and last name, email address, postal address, phone number,and other similar contact data., key: 6e9d0214"
+            label: Text
+            name: 6e9d0214
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_Geolocation data. We may collect your location data from you via our or third party applications that may be notified from time to time., key: 7bde2350"
+            label: Text
+            name: 7bde2350
+            widget: text
+          - hint: >-
+              Original text: All personal information that you provide to us
+              must be true, complete and accurate, and you must notify us of any
+              changes to such personal information., key: -45b62783
+            label: Text
+            name: '-45b62783'
+            widget: text
+          - hint: >-
+              Original text: If you provide data of another person, we assume
+              that you have properly obtained the consent subject to the
+              applicable law of that person for the provision of his/her
+              personal data., key: -50d86a6e
+            label: Text
+            name: '-50d86a6e'
+            widget: text
+          - hint: 'Original text: NDNC Policy:, key: 68ce97f3'
+            label: Text
+            name: 68ce97f3
+            widget: string
+          - hint: "Original text: \_Irrespective of the fact if youhave registered yourself under DND or DNC or NCPR services, you still authorize us to give you a call from Clubtail till 365 days of your registration with us.\_, key: 7ea5ff77"
+            label: Text
+            name: 7ea5ff77
+            widget: text
+          - hint: 'Original text: Feedback and Other Data :, key: -31e8dca8'
+            label: Text
+            name: '-31e8dca8'
+            widget: string
+          - hint: >-
+              Original text:  Any feedback data, information or suggestion that
+              you may provide us., key: 75d0d954
+            label: Text
+            name: 75d0d954
+            widget: string
+          - hint: >-
+              Original text: Information Automatically Collected :, key:
+              -7b549e2e
+            label: Text
+            name: '-7b549e2e'
+            widget: string
+          - hint: >-
+              Original text:  We also automatically collect information about
+              you and any computer or device you use to access the service. Some
+              of the information we collect, and ways we collect it, include:,
+              key: -16943e5a
+            label: Text
+            name: '-16943e5a'
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_, key: 13ada9b7"
+            label: Text
+            name: 13ada9b7
+            widget: string
+          - hint: 'Original text: Cookies:, key: -1cbe8c55'
+            label: Text
+            name: '-1cbe8c55'
+            widget: string
+          - hint: >-
+              Original text:  When you visit the Website and/or use any service,
+              we may send one or more cookies — small text files containing a
+              string of alphanumeric characters — to your computer or device
+              that allows us to uniquely identify your browser, computer, or
+              device. This may also include information such as your Internet
+              Protocol (“, key: -679d91ae
+            label: Text
+            name: '-679d91ae'
+            widget: text
+          - hint: 'Original text: IP, key: 927'
+            label: Text
+            name: '927'
+            widget: string
+          - hint: >-
+              Original text: ”) address,unique device identifiers, your browser
+              settings and specifications, and information about how you use the
+              Website and/or services (e.g., the pages you view, the links you
+              click, how frequently you access the website and/or services, and
+              other actions you take on the Website and/or services over a
+              period of time)., key: 7358324f
+            label: Text
+            name: 7358324f
+            widget: text
+          - hint: 'Original text: Log Files:, key: -4ab852c1'
+            label: Text
+            name: '-4ab852c1'
+            widget: string
+          - hint: >-
+              Original text:  We may record log file information each time you
+              access or use the Website and/or services. This information may
+              include information such as your web request, IP address,browser
+              type, unique device identifiers, information about your
+              device,referring or exit pages and URLs, number of clicks and how
+              you interact with links on the Website and/or services, domain
+              names, landing pages, pages viewed, and other such information.,
+              key: -11772a3d
+            label: Text
+            name: '-11772a3d'
+            widget: text
+          - hint: 'Original text: Clear Gifs:, key: -549c6ee8'
+            label: Text
+            name: '-549c6ee8'
+            widget: string
+          - hint: >-
+              Original text:  We may employ clear gifs(also known as web beacons
+              or pixel tags) which may collect information about you, your
+              computer or device such as your web request, IP address, unique
+              device identifiers, browser type, information about your device,
+              pages viewed, information about cookies, and all of which can show
+              your Website and/or services usage patterns., key: 17eb1753
+            label: Text
+            name: 17eb1753
+            widget: text
+          - hint: >-
+              Original text: We do not collect any special categories of
+              personal data (sensitive personal information) via our Website.
+              Sensitive personal information includes:information revealing
+              racial or ethnic origin; political opinions; religious or
+              philosophical beliefs; trade-union membership; the processing of
+              genetic or biometric data for the purpose of uniquely identifying
+              a natural person;information concerning health; information
+              concerning a natural person’s sexlife or sexual orientation; and
+              in some cases, social security numbers or financial information.,
+              key: 799103
+            label: Text
+            name: '799103'
+            widget: text
+          - hint: 'Original text: Use Of Information Collected, key: 572b2c45'
+            label: Text
+            name: 572b2c45
+            widget: string
+          - hint: >-
+              Original text: We use personal information collected via our
+              Websites for a variety of business purposes described below. We
+              use the information we collect or receive:, key: 8be7e22
+            label: Text
+            name: 8be7e22
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To provide services in the best possible manner., key: -4486f71b"
+            label: Text
+            name: '-4486f71b'
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_Perform internal operations necessaryto provide our services., key: 742f8640"
+            label: Text
+            name: 742f8640
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To communicate with you and respondto your requests, such as to respond to your questions, contact you about changes to the services, and about new products and services., key: -509a204e"
+            label: Text
+            name: '-509a204e'
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To provide customer support,including to resolve your concerns from the use of the Website and/or services., key: -774bc6aa"
+            label: Text
+            name: '-774bc6aa'
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To send you marketing and promotional communications., key: 2a15de91"
+            label: Text
+            name: 2a15de91
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To send administrative information toyou., key: -91cfaba"
+            label: Text
+            name: '-91cfaba'
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_Fulfill and manage your orders for contractual reasons., key: -68480c2f"
+            label: Text
+            name: '-68480c2f'
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_Request Feedback., key: 4c966fe1"
+            label: Text
+            name: 4c966fe1
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To enforce this Policy, and otherwise to carry out our obligations and enforce our rights in relation under this Policy and Terms of Use that may be notified by us from time to time., key: -4e11596e"
+            label: Text
+            name: '-4e11596e'
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To investigate or address claims or disputes relating to use of our services, or as otherwise allowed by applicable law, or as requested by regulators, government entities, and official inquiries., key: 3c0490cc"
+            label: Text
+            name: 3c0490cc
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_Trying to protect against or prevent actual or potential fraud or unauthorized transactions or investigating fraud which has already taken place., key: 65a4c5cd"
+            label: Text
+            name: 65a4c5cd
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_For any other lawful purpose, orother purpose that you consent to., key: 6a13fe67"
+            label: Text
+            name: 6a13fe67
+            widget: string
+          - hint: 'Original text: Retention Of Information, key: -100cba3b'
+            label: Text
+            name: '-100cba3b'
+            widget: string
+          - hint: >-
+              Original text: We will only keep your personal information for as
+              long as it isnecessary for the purposes set out in this Policy,
+              unless a longer retention period is required or permitted by law
+              (such as tax, accounting or other legal requirements). When we
+              have no ongoing legitimate business need to process your personal
+              information, we will either delete or anonymize it, or, if this is
+              not possible (for example, because your personal information has
+              been stored inbackup archives), then we will securely store your
+              personal information and isolate it from any further processing
+              until deletion is possible. If you wish that we no longer use your
+              information to provide you services, contact us at , key:
+              -688e0d47
+            label: Text
+            name: '-688e0d47'
+            widget: text
+          - hint: 'Original text: hello@clubtail.in, key: 1ba2eb9f'
+            label: Text
+            name: 1ba2eb9f
+            widget: string
+          - hint: "Original text:  and we will respond to your request to access or delete your information within 30 (thirty) days of receipt of such request. In addition, some types of information may be stored for an infinite duration due to legal requirements or technical constraints, and will, if practical, be blocked from further processing for purposes which are not mandatory by law or when a consent is withdrawn. The information that you provide may be stored or transferred in our systems or on the systems provided by our third parties.\_, key: 3e2ada99"
+            label: Text
+            name: 3e2ada99
+            widget: text
+          - hint: 'Original text: Commitment To DataSecurity, key: 59cb47a4'
+            label: Text
+            name: 59cb47a4
+            widget: string
+          - hint: "Original text: We strive to keep your personal information secure and take reasonable effort to ensure that appropriate security and technical controls are implemented to ensure data security. However, please note that no method of transmission over the Internet, or method of electronic storage,is\_100%\_secure. While we take into account the sensitivity of the personal information we collect, process and store, and the current state of technology to use these measures protect your personal information, we cannot guarantee its absolute security.\_ We use appropriate technical and organizational security measures to ensure a level of protection for personal data appropriate to the nature, scope and purpose of processing personal data,the risks associated with such processing, and the likelihood and severity of the harm that may result from such processing. You as the user of the Website are responsible for maintaining the security of any password, user ID, or otherform of authentication involved in obtaining access to password protected orsecure areas of the Website. Unauthorized access to such areas is prohibited and may lead to legal consequences. We also do not guarantee that personal data will be completely protected. Any transmission of personal data by you is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website, including through the illegal acts of third parties. \_, key: 7e80770e"
+            label: Text
+            name: 7e80770e
+            widget: text
+          - hint: 'Original text: Sharing Of Information, key: -19c3b7b9'
+            label: Text
+            name: '-19c3b7b9'
+            widget: string
+          - hint: >-
+              Original text: We use one or more outside payment processing
+              companies to bill you for the products and services listed on the
+              Website. To the best of our knowledge,these companies do not
+              retain, share, store or use personally identifiable information
+              for any other purposes. We are very protective about your data
+              anddo not share any sensitive or personal data about you with any
+              third parties unless necessary. However, we may share your
+              information with third parties inthe following circumstances:,
+              key: 3601485e
+            label: Text
+            name: 3601485e
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To dealers and distributors of the products so that the products are delivered to you in a time bound manner., key: 3671b311"
+            label: Text
+            name: 3671b311
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To service providers, subcontractors,partners, vendors, consultants, and others companies (whether in or outside India) that help us service you in the best possible manner or in relation to any of our legitimate business purposes., key: 3a2703ea"
+            label: Text
+            name: 3a2703ea
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To our affiliates, parent companies,subsidiaries, and other related companies (whether in or outside India), all for the purposes noted above or otherwise in this Policy., key: -52279776"
+            label: Text
+            name: '-52279776'
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To third parties for research,marketing or advertising purposes., key: 10da1f1"
+            label: Text
+            name: 10da1f1
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To allow Us to pursue available remedies or limit the damages that We may sustain., key: -26acbedd"
+            label: Text
+            name: '-26acbedd'
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_While negotiating or in relation to a change of corporate control such as a restructuring, merger or sale of ourassets, we may have to disclose our databases and information we have stored inthe course of our operations., key: 4d42f13"
+            label: Text
+            name: 4d42f13
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To other third parties subject toyour consent., key: -5a5db761"
+            label: Text
+            name: '-5a5db761'
+            widget: string
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To enforce this Policy, and otherwiseto carry out our obligations and enforce our rights in relation under this Policy and Terms of Use that may be notified by us from time to time., key: 3fdc3370"
+            label: Text
+            name: 3fdc3370
+            widget: text
+          - hint: "Original text: ·\_\_\_\_\_\_\_\_To any governmental authority or law enforcement officers who request or require any information and we think disclosure is required or appropriate in order to comply with laws,regulations, or a legal process., key: -65f73575"
+            label: Text
+            name: '-65f73575'
+            widget: text
+          - hint: 'Original text: Right Of Rectification Or Objection, key: -56ce9b69'
+            label: Text
+            name: '-56ce9b69'
+            widget: string
+          - hint: >-
+              Original text: You have the right to ask us to rectify any
+              inaccurate personal information concerning you. You may request to
+              review, correct, update,suppress or object to the use or
+              processing of your personal information that’s collected through
+              Website. You may review, update, correct or delete your personal
+              information collected through the Websites and/or services
+              bye-mailing us at , key: -483111ad
+            label: Text
+            name: '-483111ad'
+            widget: text
+          - hint: "Original text: . In your request, please make clear what personal information you would like to have changed, whether you would like to have your personal information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your personal information that you have provided to us. We may need toverify your identity, before processing your request. While we endeavour tohandle all requests quickly, however in certain cases depending on the nature of the problem and appropriate next steps, we may take upto 30 (thirty) days.You also have the right to erase your personal information. You also have aright to object to us processing your personal information in certain circumstances. However, such a right to object may not exist in certain situations, for e.g. if the processing of your personal information isnecessary (as applicable) to fulfil your orders, to take steps prior toentering into a contract, to perform a contract already concluded, or if the personal information is relevant to a legal dispute or complying with applicable law. In such cases, we may not stop processing your personal information. You also have the right to lodge a complaint under applicable lawfor an alleged privacy breach. Please note that We may need to retain certain information for record keeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed. In addition, there may be certain information to which we are unable to enable you to review, for legal, security, or other reasons. \_, key: -28df1553"
+            label: Text
+            name: '-28df1553'
+            widget: text
+          - hint: 'Original text: Third-Party Services, key: 315de9de'
+            label: Text
+            name: 315de9de
+            widget: string
+          - hint: "Original text: By placing an order on our Website, you hereby give us an unconditional consent and authority to share your information with dealers and distributors of the products listed on the Website so that such products are delivered to you in a time-bound manner. We may also share your personal information with certain companies that perform services on our behalf. We do not sell or otherwise provide your personal information to other companies for the marketing of their own products or services. In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.For these providers, we recommend that you read their privacy policies so youcan understand the manner in which your personal information will be handled by these providers. In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than eitheryou or us. So if you elect to proceed with a transaction that involves theservices of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located. Once you leave our Website or are redirected to a third-party website or application, you are no longer governed by this Policyor the Terms of Service/Use for our Website. \_, key: 60bd0aca"
+            label: Text
+            name: 60bd0aca
+            widget: text
+          - hint: 'Original text: Changes To This Privacy Policy, key: -7e6f943c'
+            label: Text
+            name: '-7e6f943c'
+            widget: string
+          - hint: "Original text: We may update this Policy from time to time. Your continued access ofthe Website and/or use of our services after an update constitutes consent tothe updated notice to the extent permitted by law. Please periodically reviewthis Policy for the latest information on our privacy practices. \_, key: -4d65829"
+            label: Text
+            name: '-4d65829'
+            widget: text
+          - hint: 'Original text: Communications, key: 4b55f77d'
+            label: Text
+            name: 4b55f77d
+            widget: string
+          - hint: "Original text: We may from time to time send you service-related announcements when we consider it necessary to do so (such as when we temporarily suspend the Websiteand/or services for maintenance, or security, privacy, or administrative-related communications). We send these to you via SMS/push notifications/email/WhatsApp/instant messaging, as we deem fit.\_, key: -6cd315a2"
+            label: Text
+            name: '-6cd315a2'
+            widget: text
+          - hint: 'Original text: Questions And Contact Information, key: 5b471710'
+            label: Text
+            name: 5b471710
+            widget: string
+          - hint: >-
+              Original text: If you would like to: access, correct, amend or
+              delete any personal information we have about you, register a
+              request, or simply want more information contact us at , key:
+              -120d9654
+            label: Text
+            name: '-120d9654'
+            widget: text
+          - hint: "Original text: . \_, key: b12e"
+            label: Text
+            name: b12e
+            widget: string
+          - hint: 'Original text: Grievance Officer, key: -6700b14c'
+            label: Text
+            name: '-6700b14c'
+            widget: string
+          - hint: >-
+              Original text: This Policy is published and shall be construed in
+              accordance with the provisions of Rule 3(11) of the Information
+              Technology (Intermediaries Guidelines) Rules, 2011 (“, key:
+              -4c921ef3
+            label: Text
+            name: '-4c921ef3'
+            widget: text
+          - hint: 'Original text: IT Rules, key: 3616a9a2'
+            label: Text
+            name: 3616a9a2
+            widget: string
+          - hint: >-
+              Original text: ”) that requires publishing the name of the
+              Grievance Officer and his/her contact details on the Website, such
+              that users or any victim who suffers as a result of a violation of
+              Rule 3 (outlined in this Policy and Terms of Use) by any other
+              person, can notify their complaints to us. In accordance with
+              Information Technology Act, 2000 and rules made there under, the
+              name and the contact details of the Grievance Officer appointed
+              are provided as here under: Our data grievance officer is: Pravin
+              accessible via email at: , key: -34f0735f
+            label: Text
+            name: '-34f0735f'
+            widget: text
+          - hint: 'Original text: projects@clubtail.in, key: -7ad750b9'
+            label: Text
+            name: '-7ad750b9'
+            widget: string
+          - hint: "Original text: . You can contact the officer confidentially by email to enquire about the treatment of your personal information. \_, key: 7f462bc"
+            label: Text
+            name: 7f462bc
+            widget: text
+          - hint: 'Original text: Dispute Resolution, key: -432b638'
+            label: Text
+            name: '-432b638'
+            widget: string
+          - hint: >-
+              Original text: Any dispute, controversy or claim directly or
+              indirectly caused by,arising out of or relating to this Policy
+              will be governed by the laws of India and will be referred to
+              confidential, mandatory and binding arbitration inBengaluru,
+              India. The arbitration will be conducted in accordance with the
+              provisions of the Indian Arbitration and Conciliation Act, 1996.
+              The arbitrator’s award shall be substantiated in writing and will
+              be final and binding on you and us. Subject to the above, you
+              agree to submit yourself tothe exclusive jurisdiction of the
+              Courts in Bengaluru, India., key: 27bed6f7
+            label: Text
+            name: 27bed6f7
+            widget: text
+          - hint: >-
+              Original text: Disclaimer: The images on our site are forreference
+              only. Please contact us to discuss your specific needs and to
+              tailora unique design for you., key: 4afa983e
+            label: Text
+            name: 4afa983e
+            widget: text
+          - hint: 'Original text: Terms and Conditions, key: -7ac7b766'
+            label: Text
+            name: '-7ac7b766'
+            widget: string
+          - hint: 'Original text: TERMS OF USE, key: 558c2077'
+            label: Text
+            name: 558c2077
+            widget: string
+          - hint: 'Original text: These terms of use (“, key: -77e5f280'
+            label: Text
+            name: '-77e5f280'
+            widget: string
+          - hint: 'Original text: TOU, key: 1453a'
+            label: Text
+            name: 1453a
+            widget: string
+          - hint: >-
+              Original text: ”) govern the access or use of our website
+              clubtail.in (“, key: 5d11fc67
+            label: Text
+            name: 5d11fc67
+            widget: string
+          - hint: 'Original text: Our Website, key: 46f55f87'
+            label: Text
+            name: 46f55f87
+            widget: string
+          - hint: >-
+              Original text: ”). Our Website is available for You together with
+              all the content, tools, facilities and services made available
+              through Our Website. Therefore, please read these TOU very
+              carefully., key: 31c2937c
+            label: Text
+            name: 31c2937c
+            widget: text
+          - hint: >-
+              Original text: These TOU are an electronic record in terms of
+              Information Technology Act, 2000 (“, key: -3edf64f4
+            label: Text
+            name: '-3edf64f4'
+            widget: string
+          - hint: 'Original text: IT Act, 2000, key: -53680991'
+            label: Text
+            name: '-53680991'
+            widget: string
+          - hint: >-
+              Original text: ”), the applicable rules thereunder and the
+              provisions pertaining to electronic records in various statutes as
+              amended by the IT Act, 2000. This electronic record is generated
+              by a computer system and does not require any physical or digital
+              signatures., key: -5d1063c2
+            label: Text
+            name: '-5d1063c2'
+            widget: text
+          - hint: >-
+              Original text: This document is published in accordance with the
+              provisions of Rule 3(1) of the Information Technology
+              (Intermediaries Guidelines) Rules, 2011 that require publishing
+              the rules and regulations, privacy policy and terms of use for
+              access to or usage of Our Website., key: -73e42c67
+            label: Text
+            name: '-73e42c67'
+            widget: text
+          - hint: >-
+              Original text: For the purposes of clarity, the term “, key:
+              a5eb47b
+            label: Text
+            name: a5eb47b
+            widget: string
+          - hint: 'Original text: Company/Us/Our/We/ Clubtail, key: 3a527ce7'
+            label: Text
+            name: 3a527ce7
+            widget: string
+          - hint: >-
+              Original text: ” shall include GS Ecommerce Private Limited and
+              its holding company, subsidiary companies, successors-in-interest,
+              executors, permitted assigns, affiliates, associates and group
+              companies. Further, the term “, key: -6a7ebf0c
+            label: Text
+            name: '-6a7ebf0c'
+            widget: text
+          - hint: 'Original text: Client, key: 7877dfeb'
+            label: Text
+            name: 7877dfeb
+            widget: string
+          - hint: 'Original text: You, key: 15bff'
+            label: Text
+            name: 15bff
+            widget: string
+          - hint: 'Original text: ” and “, key: 1a26e50'
+            label: Text
+            name: 1a26e50
+            widget: string
+          - hint: 'Original text: Your, key: 2a2453'
+            label: Text
+            name: 2a2453
+            widget: string
+          - hint: >-
+              Original text: ” refers to you, and by clicking “I AGREE,”
+              “SUBMIT”, or the like (if provided) thereby indicating acceptance
+              electronically, You agree and acknowledge that You have read,
+              understood, and agree to be bound by this TOU and that these TOU
+              constitute a legal and binding agreement between You and Us and
+              accept the Company’s terms and conditions including the Privacy
+              Policy available at Our Website (“, key: -42b50091
+            label: Text
+            name: '-42b50091'
+            widget: text
+          - hint: >-
+              Original text: ”), which form an integral part of this TOU., key:
+              -5b953a80
+            label: Text
+            name: '-5b953a80'
+            widget: string
+          - hint: >-
+              Original text: We may revise this TOU from time to time, so please
+              keep visiting this page on Our Website regularly to keep Yourself
+              updated. In the event, We wish to change this TOU We will seek
+              Your consent vide the email id and/or the contact information
+              provided by You at the time of registration on Our Website.
+              However, if You fail to respond to the notification within the
+              reasonable prescribed time as provided in the notification and
+              continue to access and/or use Our Website following the changes or
+              updates to this TOU, it shall be deemed to constitute Your
+              acceptance and agreement to be bound by the revised TOU. If at any
+              point of time, You do not agree with the updated TOU or wish to
+              terminate this agreement, You must immediately stop using the
+              Platform and write to hello@clubtail.in, and this TOU shall be
+              terminated for You, subject to the terms contained herein., key:
+              1fc2ec72
+            label: Text
+            name: 1fc2ec72
+            widget: text
+          - hint: >-
+              Original text: You expressly understand and agree that Your
+              accessing or use of Our Website is at Your sole risk. Our Website
+              is provided on an “as is” and “as available” basis. Except as
+              herein otherwise provided, We and Our licensors, suppliers,
+              vendors, parent, holding, subsidiary and related companies,
+              affiliates, officers, agents and employees expressly disclaim all
+              warranties of any kind, whether express or implied, including, but
+              not limited to the implied warranties of merchantability, fitness
+              for a particular purpose and non-infringement., key: 1faa9f4c
+            label: Text
+            name: 1faa9f4c
+            widget: text
+          - hint: >-
+              Original text: We, Our associates and service partners make no
+              representations or warranties about the accuracy, reliability,
+              completeness, current-ness and/or timeliness of any content,
+              information, software, text, graphics, links or communications
+              provided on or through the use of Our Website or that the
+              operation of Our Website will be error-free and/or uninterrupted.
+              Consequently, We assume no liability whatsoever for any monetary
+              or other damage suffered by You on account of the delay, failure,
+              interruption, or corruption of any data or other information
+              transmitted in connection with use of Our Website; and/or any
+              interruption or errors in the operation of Our Website., key:
+              -4455d773
+            label: Text
+            name: '-4455d773'
+            widget: text
+          - hint: 'Original text: General Terms of Use:, key: 2a1fc54b'
+            label: Text
+            name: 2a1fc54b
+            widget: string
+          - hint: >-
+              Original text: 1. Ownership and Intellectual Property, key:
+              -77c42788
+            label: Text
+            name: '-77c42788'
+            widget: string
+          - hint: >-
+              Original text: We expressly reserve all intellectual property
+              rights in all text, programs, products, processes, technology,
+              content and other materials, which appear on Our Website. Access
+              to Our Website does not confer and shall not be considered as
+              conferring upon anyone any license under any of Our or any third
+              party’s intellectual property rights., key: -50ae48b4
+            label: Text
+            name: '-50ae48b4'
+            widget: text
+          - hint: >-
+              Original text: The Clubtail names and logos and all related
+              product and service names, design marks and slogans are the
+              trademarks or service marks of clubtail. All other marks are the
+              property of their respective companies. No trademark or service
+              mark license is granted in connection with the materials contained
+              on our Website. Access to our Website does not authorize anyone to
+              use any name, logo or mark in any manner. References on our
+              Website to any names, marks, products or services of third parties
+              or hypertext links to third party sites or information are
+              provided solely as a convenience to You and do not in any way
+              constitute or imply Our endorsement, sponsorship or recommendation
+              of the third party, information, product or service., key:
+              -114c5230
+            label: Text
+            name: '-114c5230'
+            widget: text
+          - hint: >-
+              Original text: We are not responsible for the content of any third
+              party sites and do not make any representations regarding the
+              content or accuracy of material on such sites. If you decide to
+              link to any such third party websites, you do so entirely at Your
+              own risk., key: 6626b317
+            label: Text
+            name: 6626b317
+            widget: text
+          - hint: >-
+              Original text: All materials, including images, text,
+              illustrations, designs, icons, photographs, programs, music clips
+              or downloads, video clips and written and other materials that are
+              part of Our Website (collectively, the “Contents“) are intended
+              solely for personal, non-commercial use. Any use of our Website or
+              its contents, including copying or storing it or them in whole or
+              part, other than for Your own personal, non-commercial use is
+              prohibited without the permission of clubtail. You may not modify,
+              distribute or re-post anything on our Website for any purpose.,
+              key: -e5b3a6c
+            label: Text
+            name: '-e5b3a6c'
+            widget: text
+          - hint: 'Original text: 2. Eligibility and Use, key: -49ac29f9'
+            label: Text
+            name: '-49ac29f9'
+            widget: string
+          - hint: >-
+              Original text: In order to use or access Our Website, You must be
+              competent to enter into a contract under applicable laws. If you
+              continue using Our Website, then You represent and warrant to Us
+              that You are competent to enter into a valid and binding contract
+              under applicable laws. In the event, You access or use Our Website
+              for and on behalf of a legal entity (whether a single entity or
+              multiple entities), You represent and warrant that You have the
+              authority to bind such entity (and its affiliates or associated
+              entities) to this TOU., key: 7f89808a
+            label: Text
+            name: 7f89808a
+            widget: text
+          - hint: 'Original text: 3. Termination, key: -3e028f61'
+            label: Text
+            name: '-3e028f61'
+            widget: string
+          - hint: >-
+              Original text: We may suspend or terminate Your use of the Website
+              or any service if We believe, in Our sole and absolute discretion
+              that You have breached any of the terms of these TOU. We may also
+              in Our sole discretion and at any time discontinue providing the
+              services, or any part thereof. Termination of Your access to the
+              use of Our Website may be effected without prior notice to You,
+              and You acknowledge and agree that We may immediately bar any
+              further access to our Website., key: 4f0aefb3
+            label: Text
+            name: 4f0aefb3
+            widget: text
+          - hint: >-
+              Original text: If You or We terminate Your use of Our Website or
+              any service, We may delete any content or other materials relating
+              to Your use of the Website and will have no liability to You or
+              any third party for doing so. You shall be liable to pay for any
+              service or product that you have already ordered till the time of
+              termination by either party whatsoever., key: 2ba8c774
+            label: Text
+            name: 2ba8c774
+            widget: text
+          - hint: 'Original text: 4. Indemnity, key: 211d0081'
+            label: Text
+            name: 211d0081
+            widget: string
+          - hint: >-
+              Original text: You agree to defend, indemnify and hold harmless
+              clubtail, its employees, directors, officers, agents and their
+              successors and assigns from and against any and all claims,
+              liabilities, damages, losses, costs and expenses, including
+              attorney’s fees, caused by or arising out of claims based upon
+              Your actions or inactions, which may result in any loss or
+              liability to Us or any third party including but not limited to
+              breach of any warranties, representations or undertakings or in
+              relation to the non-fulfilment of any of Your obligations under
+              this TOU or arising out of the Your violation of any applicable
+              laws, regulations including but not limited to intellectual
+              property rights, payment of statutory dues and taxes, claim of
+              libel, defamation, violation of rights of privacy or publicity,
+              loss of service by other subscribers and infringement of
+              intellectual property or other rights. This clause shall survive
+              the expiry or termination of this TOU., key: 558a2b36
+            label: Text
+            name: 558a2b36
+            widget: text
+          - hint: 'Original text: 5. Limitation of Liability, key: 517c9f83'
+            label: Text
+            name: 517c9f83
+            widget: string
+          - hint: >-
+              Original text: To the fullest extent permitted under applicable
+              law, We, Our associates, parent companies, or suppliers shall not
+              be liable for any indirect, incidental, special, incidental,
+              consequential or exemplary damages, including but not limited to,
+              damages for loss of profits, goodwill, use, data or other
+              intangible losses arising out of or in connection with Our
+              Website, its services or this TOU. Without prejudice to the
+              generality of this section, Our total liability to You for all
+              liabilities arising out of this TOU is limited to the value of the
+              product ordered by You., key: 574029b9
+            label: Text
+            name: 574029b9
+            widget: text
+          - hint: 'Original text: 6. Entire Agreement, key: -3ba7c35d'
+            label: Text
+            name: '-3ba7c35d'
+            widget: string
+          - hint: >-
+              Original text: This TOU constitutes the entire agreement between
+              You and clubtail and governs Your use of Our Website, superseding
+              any prior understandings and agreements between You and Us and any
+              previous statements or representations from either party to the
+              other party. This TOU does not apply to any affiliate services,
+              third-party content or third-party software that does not or
+              cannot reasonably be deemed to form part of Our Website which may
+              be provided to You by Our licensors, suppliers, vendors, parent,
+              holding, subsidiary or related companies, other affiliates or
+              other third parties, which may be subject to additional terms and
+              conditions imposed by that party. You also may be subject to
+              additional terms and conditions that may apply when You use
+              affiliate services, third-party content or third-party software.,
+              key: 52757c2f
+            label: Text
+            name: 52757c2f
+            widget: text
+          - hint: 'Original text: 7. Non-Transferability, key: -3c4dbf2a'
+            label: Text
+            name: '-3c4dbf2a'
+            widget: string
+          - hint: >-
+              Original text: You agree that Your account on Our Website is
+              non-transferable and any rights to your Account ID or contents
+              within Your account terminate upon your death. Upon receipt of a
+              copy of a death certificate, Your account may be terminated and
+              all contents therein permanently deleted., key: 5df82c91
+            label: Text
+            name: 5df82c91
+            widget: text
+          - hint: 'Original text: 8. Governing Law and Jurisdiction, key: 16037343'
+            label: Text
+            name: '16037343'
+            widget: string
+          - hint: >-
+              Original text: This TOU and the relationship between You and Us
+              shall be governed by the laws of the Republic of India without
+              regard to its conflict of law provisions. The Courts at Bengaluru,
+              India shall have exclusive jurisdiction in any proceedings arising
+              out of this TOU., key: 2ec59c94
+            label: Text
+            name: 2ec59c94
+            widget: text
+          - hint: 'Original text: 9. Contact Us, key: -672a3737'
+            label: Text
+            name: '-672a3737'
+            widget: string
+          - hint: >-
+              Original text: Please send any questions or comments (including
+              all inquiries unrelated to copyright infringement) regarding Our
+              Website to hello@clubtail.in., key: -693f636
+            label: Text
+            name: '-693f636'
+            widget: text
+          - hint: >-
+              Original text: 10. Website feedback, user comments and
+              user-generated content:, key: 7feb2de5
+            label: Text
+            name: 7feb2de5
+            widget: string
+          - hint: >-
+              Original text: All reviews, comments, feedback, postcards,
+              suggestions, ideas, and other submissions disclosed, submitted to
+              Us on or by Our Website or otherwise disclosed, submitted or
+              offered in connection with Your use of Our Website (collectively,
+              the “Comments“) shall be and remain Our property. Such disclosure,
+              submission or offer of any Comments shall constitute an assignment
+              to Us of all worldwide rights, titles and interests in all
+              copyrights and other intellectual properties in the Comments.
+              Thus, We own exclusively all such rights, titles and interests and
+              shall not be limited in any way in its use, commercial or
+              otherwise, of any Comments. We will be entitled to use, reproduce,
+              disclose, modify, adapt, create derivative works from, publish,
+              display and distribute any Comments You submit for any purpose
+              whatsoever, without restriction and without compensating You in
+              any way. We are and shall be under no obligation: (1) to maintain
+              any Comments in confidence; (2) to pay You any compensation for
+              any Comments; or (3) to respond to any Comments. You agree that
+              any Comments submitted by You to the Website will not violate
+              these TOU or any right of any third party, including copyright,
+              trademark, privacy or other personal or proprietary right(s), and
+              will not cause injury to any person or entity. You further agree
+              that no Comments submitted by You to Our Website will be or
+              contain libelous or otherwise unlawful, threatening, abusive or
+              obscene material, or contain software viruses, political
+              campaigning, commercial solicitation, chain letters, mass mailings
+              or any form of ‘spam’. We do not regularly review posted Comments,
+              but do reserve the right (but not the obligation) to monitor and
+              edit or remove any Comments submitted on the Website. You grant Us
+              the right to use the name that You submit in connection with any
+              Comments. You agree not to use a false email address, impersonate
+              any person or entity, or otherwise mislead as to the origin of any
+              Comments You submit. You are and shall remain solely responsible
+              for the content of any Comments You make and You agree to
+              indemnify Us and Our affiliates for all claims resulting from any
+              Comments You submit. We and Our affiliates take no responsibility
+              and assume no liability for any Comments submitted by You or any
+              third party., key: 2d2e4955
+            label: Text
+            name: 2d2e4955
+            widget: text
+          - hint: 'Original text: Specific Terms of Use, key: -38a6a77b'
+            label: Text
+            name: '-38a6a77b'
+            widget: string
+          - hint: >-
+              Original text: PART – I – INTERIOR SERVICES (“SERVICES”), key:
+              -76de0f92
+            label: Text
+            name: '-76de0f92'
+            widget: string
+          - hint: 'Original text: 11. Fee Quotation and Payment, key: -36f884e3'
+            label: Text
+            name: '-36f884e3'
+            widget: string
+          - hint: >-
+              Original text: The quoted rates on Our Website for the Services
+              are an estimate based on current design and sizes, and they are
+              liable to change till the sign off/production stage depending on
+              the exact actual measurements on-site or design changes made by
+              You or as per Your instructions., key: -261b87e0
+            label: Text
+            name: '-261b87e0'
+            widget: text
+          - hint: >-
+              Original text: The payment will be done in the following stages:,
+              key: -64f9e16e
+            label: Text
+            name: '-64f9e16e'
+            widget: string
+          - hint: >-
+              Original text: 1. 10% to begin design at sign up (Non-Refundable),
+              key: -28c38b45
+            label: Text
+            name: '-28c38b45'
+            widget: string
+          - hint: >-
+              Original text: 2. 50% before 3D after the first presentation
+              advance (Non-Refundable), key: -44e45f98
+            label: Text
+            name: '-44e45f98'
+            widget: string
+          - hint: >-
+              Original text: 3. 35% before the material delivery
+              (Non-Refundable), key: 65b26a10
+            label: Text
+            name: 65b26a10
+            widget: string
+          - hint: >-
+              Original text: 4. 5% after completion (Non-Refundable), key:
+              47833105
+            label: Text
+            name: '47833105'
+            widget: string
+          - hint: >-
+              Original text: All Our product pricing is exclusive of taxes.
+              Taxes have been mentioned in Your estimate separately and will be
+              charged at the time of billing at each stage as per prevailing
+              government tax rates. All payments made via credit cards will be
+              applicable for a 2% surcharge as charged by the banks towards the
+              same. The same is to be borne by You. We only facilitate financial
+              loans and services. Approvals, processing and terms are at the
+              sole discretion of the financial entity. Services charges, project
+              design and management fees (if applicable) will be mentioned on
+              your proposal and will be relevantly charged during billing., key:
+              4b871ee4
+            label: Text
+            name: 4b871ee4
+            widget: text
+          - hint: 'Original text: 12. Delivery Time, key: -70cbd3a'
+            label: Text
+            name: '-70cbd3a'
+            widget: string
+          - hint: >-
+              Original text: We will process Your final order and start
+              production only post a 60% payment., key: -38a5abf4
+            label: Text
+            name: '-38a5abf4'
+            widget: string
+          - hint: >-
+              Original text: Your order will be delivered on or before the
+              assured delivery date. Changing an order or unforeseen
+              circumstances may delay the delivery time. We are not responsible
+              for any delay in project implementation due to third-party vendors
+              or for reasons beyond Our control., key: -3d9bc856
+            label: Text
+            name: '-3d9bc856'
+            widget: text
+          - hint: 'Original text: 13. Delay in Completion, key: -4fc06dfa'
+            label: Text
+            name: '-4fc06dfa'
+            widget: string
+          - hint: >-
+              Original text: The payment will be subject to the following
+              conditions:, key: -15cde435
+            label: Text
+            name: '-15cde435'
+            widget: string
+          - hint: >-
+              Original text: 1. The delay is for the initial scope of work and
+              item list. Additional items or request for change will not be
+              considered as delayed items., key: -1ef13241
+            label: Text
+            name: '-1ef13241'
+            widget: text
+          - hint: >-
+              Original text: 2. There are no external factors which have
+              contributed to delay which are out of Our control., key: -13636b5
+            label: Text
+            name: '-13636b5'
+            widget: text
+          - hint: >-
+              Original text: 3. Our Website is in a condition which is ready for
+              installation, and there is no delay or pending work from the
+              builder or the client., key: 4729d55f
+            label: Text
+            name: 4729d55f
+            widget: text
+          - hint: 'Original text: 14. Cancellation, Returns & Delays, key: -388540cd'
+            label: Text
+            name: '-388540cd'
+            widget: string
+          - hint: >-
+              Original text: Any non-manufacturing defects and damages post
+              receiving a delivery are not valid for returns or replacements.
+              Customised and made-to-order furniture pieces, purchased from
+              clubtail, cannot be returned or exchanged., key: 17d9f763
+            label: Text
+            name: 17d9f763
+            widget: text
+          - hint: >-
+              Original text: All payments made at any stage are non-refundable.,
+              key: 48aefbc4
+            label: Text
+            name: 48aefbc4
+            widget: string
+          - hint: 'Original text: 15. Disclaimer of Warranties, key: 207f3fd4'
+            label: Text
+            name: 207f3fd4
+            widget: string
+          - hint: >-
+              Original text: We and Our licensors, suppliers, vendors, parent,
+              holding, subsidiary and related companies, affiliates, officers,
+              agents and employees make no warranty that:, key: -249d31db
+            label: Text
+            name: '-249d31db'
+            widget: text
+          - hint: >-
+              Original text: 1. The Service will meet your requirements;, key:
+              15276d66
+            label: Text
+            name: 15276d66
+            widget: string
+          - hint: >-
+              Original text: 2. The Service will be uninterrupted, timely,
+              secure, or error-free;, key: 6f709436
+            label: Text
+            name: 6f709436
+            widget: string
+          - hint: >-
+              Original text: 3. The Service will be accessible at any time or at
+              all times via the channel selected or used by you;, key: -99a3c31
+            label: Text
+            name: '-99a3c31'
+            widget: text
+          - hint: >-
+              Original text: 4. The information, content or advertisements
+              (collectively, the “, key: 3331e27d
+            label: Text
+            name: 3331e27d
+            widget: string
+          - hint: 'Original text: materials, key: 2899402c'
+            label: Text
+            name: 2899402c
+            widget: string
+          - hint: >-
+              Original text: “) contained on, distributed through, or linked,
+              downloaded or accessed from or through the Service, or the results
+              that may be obtained from the use of the Service, will be accurate
+              or reliable;, key: -557b3e41
+            label: Text
+            name: '-557b3e41'
+            widget: text
+          - hint: >-
+              Original text: This disclaimer does not apply to any product
+              warranty offered by the manufacturer of the product as specified
+              in the product specifications. This disclaimer constitutes an
+              essential part of these TOU., key: -43ab0525
+            label: Text
+            name: '-43ab0525'
+            widget: text
+          - hint: 'Original text: 16. Grievance Redressal, key: 1c6ef116'
+            label: Text
+            name: 1c6ef116
+            widget: string
+          - hint: >-
+              Original text: If You have any concern or grievance or complaint
+              with respect to the Services, please contact Pravin, key: 39cf46e5
+            label: Text
+            name: 39cf46e5
+            widget: text
+          - hint: 'Original text: E-mail address:, key: -3b13b079'
+            label: Text
+            name: '-3b13b079'
+            widget: string
+          - hint: 'Original text: Mobile number:, key: 7137c4b3'
+            label: Text
+            name: 7137c4b3
+            widget: string
+          - hint: >-
+              Original text: The Grievance Officer will study the matter and
+              take such action as deemed appropriate under the circumstances.,
+              key: 578fc84d
+            label: Text
+            name: 578fc84d
+            widget: text
+          - hint: >-
+              Original text: You shall be provided with a ticket number for each
+              complaint lodged by You through which You can track the status of
+              the complaint., key: 4746aea5
+            label: Text
+            name: 4746aea5
+            widget: text
+          - hint: >-
+              Original text: We shall ensure that the Grievance Officer
+              acknowledges the receipt of Your complaint within 48 (forty-eight)
+              hours and redresses the complaint within 1 (one) month from the
+              date of receipt of the complaint., key: -6c2a7d43
+            label: Text
+            name: '-6c2a7d43'
+            widget: text
+          - hint: >-
+              Original text: PART – II – SERVICES OF SALE OF PRODUCTS, key:
+              -3575d2f2
+            label: Text
+            name: '-3575d2f2'
+            widget: string
+          - hint: 'Original text: 17. Products Offered on Our Website, key: -1d268591'
+            label: Text
+            name: '-1d268591'
+            widget: string
+          - hint: "Original text: Our Website enables You to purchase products such as furniture, furnishings, home décor, \_and articles etc. related to a home from various brands (collectively, “, key: 1f0eb739"
+            label: Text
+            name: 1f0eb739
+            widget: text
+          - hint: 'Original text: Products, key: -37f9ca7c'
+            label: Text
+            name: '-37f9ca7c'
+            widget: string
+          - hint: >-
+              Original text: “). The Products can be purchased through Our
+              Website through various methods of payments offered. The
+              sale/purchase of Products shall be additionally governed by
+              specific policies of sale, like cancellation policy, exchange
+              policy, return policy, etc. (which are found on Our Website and
+              all of which are incorporated here by reference). In addition,
+              these TOU may be further supplemented by Product specific
+              conditions, which may be displayed with that Product on our
+              Website., key: 2d0b20b5
+            label: Text
+            name: 2d0b20b5
+            widget: text
+          - hint: >-
+              Original text: Clubtail does not warrant that Product description
+              or other content of Clubtail is accurate, complete, reliable,
+              current, or error-free and assumes no liability in this regard.,
+              key: -458e735e
+            label: Text
+            name: '-458e735e'
+            widget: text
+          - hint: >-
+              Original text: 18. Website as a Platform for Transaction and
+              Communication, key: -33e146aa
+            label: Text
+            name: '-33e146aa'
+            widget: string
+          - hint: >-
+              Original text: All commercial/contractual terms are offered by and
+              agreed to between You and the sellers alone. The
+              commercial/contractual terms include without limitation price,
+              shipping costs, payment methods, payment terms, date, period and
+              mode of delivery, warranties related to Products and after sales
+              services related to Products. Clubtail does not have any control
+              or does not determine or advise or in any way involve itself in
+              the offering or acceptance of such commercial/contractual terms
+              between You and the sellers., key: 7b20e1e1
+            label: Text
+            name: 7b20e1e1
+            widget: text
+          - hint: >-
+              Original text: Clubtail does not make any representation or
+              warranty as to specifics (such as quality, value, sale-ability,
+              etc) of the Products proposed to be sold or offered to be sold or
+              purchased on Our Website., key: 73e23fe6
+            label: Text
+            name: 73e23fe6
+            widget: text
+          - hint: >-
+              Original text: Clubtail is not responsible for any non-performance
+              or breach of any contract entered into between You and the
+              sellers. Clubtail cannot and does not guarantee that the concerned
+              sellers will perform any transaction concluded on Our Website.,
+              key: 59b5c342
+            label: Text
+            name: 59b5c342
+            widget: text
+          - hint: >-
+              Original text: At no time shall Clubtail hold any right, title or
+              interest over the Products nor shall Clubtail have any obligations
+              or liabilities in respect of such contract entered into between
+              You and the sellers., key: 7d3d1709
+            label: Text
+            name: 7d3d1709
+            widget: text
+          - hint: >-
+              Original text: Our Website is only a platform that can be utilized
+              by You to buy Products. Clubtail is only providing a platform for
+              facilitating the sale of Products and enabling communication and
+              it is agreed that the contract for the sale of any of the Products
+              shall be a strictly bipartite contract between the Seller and You.
+              At no time shall Clubtail hold any right, title or interest over
+              the Products nor shall Clubtail have any obligations or
+              liabilities in respect of such contract. Clubtail is not
+              responsible for the unsatisfactory or delayed performance of
+              services or damages or delays as a result of Products that are out
+              of stock, unavailable or back-ordered., key: -4772efa0
+            label: Text
+            name: '-4772efa0'
+            widget: text
+          - hint: >-
+              Original text: Incorrect pricing on any Product(s) as is reflected
+              on Our Website may be due to some technical issue, typographical
+              error or product information published by the seller and in such
+              an event seller may cancel your order(s)., key: -305a58b5
+            label: Text
+            name: '-305a58b5'
+            widget: text
+          - hint: >-
+              Original text: Clubtail hereby disclaims any guarantees of
+              exactness as to the finish, appearance, size, colour etc., of the
+              final Product as ordered by You., key: 3eb6ac6e
+            label: Text
+            name: 3eb6ac6e
+            widget: text
+          - hint: >-
+              Original text: Clubtail is not responsible for the delays in
+              delivery, quality of materials and omissions by the sellers of the
+              Products. Every Product provided herein shall be covered by the
+              brand warranties as provided by the relevant seller., key:
+              5ac4425e
+            label: Text
+            name: 5ac4425e
+            widget: text
+          - hint: >-
+              Original text: We shall display the details about the sellers
+              offering the Products, including the name of their business,
+              whether registered or not, their geographic address, customer care
+              number, any rating or other aggregated feedback about such seller,
+              and any other information on Our Website, necessary for enabling
+              You to make an informed decision at the pre-purchase stage., key:
+              44a038c6
+            label: Text
+            name: 44a038c6
+            widget: text
+          - hint: >-
+              Original text: We shall also on a request in writing made by You
+              after the purchase of any Products on our Website, provide You
+              with information regarding the seller from which You have made
+              such purchase, including the principal geographic address of its
+              headquarters and all branches, name and details of its website,
+              its email address and any other information necessary for
+              communication with the seller for effective dispute resolution.,
+              key: -78b4ce77
+            label: Text
+            name: '-78b4ce77'
+            widget: text
+          - hint: 'Original text: 19. Payment Facility, key: -3f642669'
+            label: Text
+            name: '-3f642669'
+            widget: string
+          - hint: >-
+              Original text: You, as a buyer, understand that upon initiating a
+              transaction on Our Website, You are entering into a legally
+              binding and enforceable contract with the seller to purchase the
+              Products from the seller using the payment facility available on
+              Our Website (“, key: 65cc1e83
+            label: Text
+            name: 65cc1e83
+            widget: text
+          - hint: 'Original text: Payment Facility, key: 383fabbd'
+            label: Text
+            name: 383fabbd
+            widget: string
+          - hint: >-
+              Original text: ”), and You shall make the payments for the
+              purchase of the Products using the Payment Facility. The Payment
+              Facility shall be provided through third-party payment service
+              providers which may include third party banking or credit card
+              payment gateways, payment aggregators, cash on delivery or demand
+              draft/pay order on delivery service providers, mobile payment
+              service providers or through any facility as may be authorized by
+              the Reserve Bank of India for collection, refund and remittance,
+              as the case may be of payment or supporting the same in any
+              manner., key: 175ae0fb
+            label: Text
+            name: 175ae0fb
+            widget: text
+          - hint: >-
+              Original text: You agree to provide correct and accurate
+              credit/debit card/net banking/e-wallet details to the approved
+              payment gateway for purchasing any Products. You shall not use the
+              credit/debit card which is not lawfully owned by You, i.e. in any
+              transaction, You must use Your own credit/debit card / net
+              banking/ e-wallet. The information provided by You will not be
+              utilized or shared with any third party unless required in
+              relation to fraud verifications or by law, regulation or court
+              order. You will be solely responsible for the security and
+              confidentiality of Your credit/debit card/ net banking/ e-wallet
+              details. Clubtail expressly disclaims all liabilities that may
+              arise as a consequence of any unauthorized use of Your
+              credit/debit card/ net banking/ e-wallet., key: 41dbb617
+            label: Text
+            name: 41dbb617
+            widget: text
+          - hint: 'Original text: 20. Grievance Redressal, key: 3f7e2a9d'
+            label: Text
+            name: 3f7e2a9d
+            widget: string
+          - hint: >-
+              Original text: If You have any concerns or grievances or
+              complaints with respect to the Products, please contact Pravin,
+              key: 2fda782c
+            label: Text
+            name: 2fda782c
+            widget: text
+          - hint: 'Original text: Mobile number: , key: -4a3f2e33'
+            label: Text
+            name: '-4a3f2e33'
+            widget: string
+          - hint: >-
+              Original text: The Grievance Officer will study the matter and
+              take such action or escalate the matter, as deemed appropriate
+              under the circumstances., key: -40c1d1fe
+            label: Text
+            name: '-40c1d1fe'
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -994,6 +2375,22 @@ collections:
             label: Link
             name: '-167ee3e1'
             widget: string
+          - hint: 'Original link: tel:+918550000918, key: -35ab6814'
+            label: Link
+            name: '-35ab6814'
+            widget: string
+          - hint: 'Original link: mailto:hello@clubtail.com, key: 9ba4c4f'
+            label: Link
+            name: 9ba4c4f
+            widget: string
+          - hint: 'Original link: /privacy-policy/, key: -2f934417'
+            label: Link
+            name: '-2f934417'
+            widget: string
+          - hint: 'Original link: /terms-and-conditions/, key: -237f3f94'
+            label: Link
+            name: '-237f3f94'
+            widget: string
           - hint: 'Original link: https://www.emildasolutions.com/, key: 6184bf70'
             label: Link
             name: 6184bf70
@@ -1008,6 +2405,18 @@ collections:
               key: -194be993
             label: Link
             name: '-194be993'
+            widget: string
+          - hint: 'Original link: http://www.clubtail.in, key: -1fd4501c'
+            label: Link
+            name: '-1fd4501c'
+            widget: string
+          - hint: 'Original link: mailto:hello@clubtail.in, key: -52444f69'
+            label: Link
+            name: '-52444f69'
+            widget: string
+          - hint: 'Original link: mailto:projects@clubtail.in, key: -a65d8b1'
+            label: Link
+            name: '-a65d8b1'
             widget: string
       - label: Images
         name: images
@@ -1070,20 +2479,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 7f6a8f7c
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-522e814b'
+            name: 6a4ce41
             widget: object
             fields:
               - name: url
@@ -1578,6 +2974,19 @@ collections:
                 required: false
           - label: Image
             name: 165b1099
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '5982617'
             widget: object
             fields:
               - name: url
